@@ -16,15 +16,16 @@ This repository was created as part of the **Version Control** task during the *
 
 ## 📝 Description
 
-This task demonstrates the use of Git and GitHub for version control, including:
--Create a new project on your local machine,
--then push it your remote repo.
--Create two branches (dev & test) then create one file on each branch,
-and push this branches to the remote repo.
--Merge this changes on Main branch locally and then push it to your remote main branch.
--Create an annotated tag with tagname (v1.7)
--Push it to the remote repository
--send invitaion to my instructor
+### This task demonstrates the use of Git and GitHub for version control, including:
+
+- Create a new project on your local machine,
+- then push it your remote repo.
+- Create two branches (dev & test) then create one file on each branch,
+  and push this branches to the remote repo.
+- Merge this changes on Main branch locally and then push it to your remote main branch.
+- Create an annotated tag with tagname (v1.7)
+- Push it to the remote repository
+- send invitaion to my instructor
 
 ---
 
